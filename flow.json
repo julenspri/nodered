@@ -28,10 +28,28 @@
         "topic": "",
         "payload": "",
         "payloadType": "date",
-        "x": 340,
-        "y": 140,
+        "x": 320,
+        "y": 220,
         "wires": [
-            []
+            [
+                "6a1921a10d25788b"
+            ]
         ]
+    },
+    {
+        "id": "6a1921a10d25788b",
+        "type": "debug",
+        "z": "3c4c60a7408b654b",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 570,
+        "y": 220,
+        "wires": []
     }
 ]
